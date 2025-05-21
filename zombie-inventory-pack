@@ -1,6 +1,0 @@
-cd "C:\Users\mathi\OneDrive\Bureau\les-Cendres-de-lunes\txData\ESXLegacy_2B51DF.base\resources\[ox]"
-git init
-git add .
-git commit -m "Initial commit du script ox inventory"
-git remote add origin https://github.com/JonwayShelwood/ox-inventory.git
-git push -u origin main
